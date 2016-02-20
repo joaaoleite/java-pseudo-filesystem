@@ -1,0 +1,29 @@
+*** tests/A-016-005-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-016-005-M-ok.outhyp	Tue Dec  2 18:36:41 2014
+***************
+*** 80,91 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d w vader 48 .
+! d - vader 32 ..
+  - - vader 23 filePriv
+  - w vader 22 filePub
+! d w vader 16 p
+! d - yoda 16 priv
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 80,91 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d w vader 64 public
+! d - vader 48 vader
+  - - vader 23 filePriv
+  - w vader 22 filePub
+! d w vader 32 p
+! d - yoda 32 priv
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada

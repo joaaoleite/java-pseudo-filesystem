@@ -1,0 +1,27 @@
+*** tests/A-014-005-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-014-005-M-ok.outhyp	Tue Dec  2 18:36:39 2014
+***************
+*** 40,50 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 40 .
+! d - root 24 ..
+! d - root 40 root
+! d - vader 48 vader
+! d - yoda 16 yoda
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 40,50 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 56 home
+! d - root 40 
+! d - root 56 root
+! d - vader 64 vader
+! d - yoda 32 yoda
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada

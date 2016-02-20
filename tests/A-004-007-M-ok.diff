@@ -1,0 +1,29 @@
+*** tests/A-004-007-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-004-007-M-ok.outhyp	Tue Dec  2 18:36:33 2014
+***************
+*** 88,99 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 56 .
+! d - root 24 ..
+  - - root 0 a
+! d - root 16 e
+! d - root 16 ee
+! d - root 16 g
+  - - root 0 z
+  Menu de Shell
+  1 - Listar
+--- 88,99 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 72 root
+! d - root 40 home
+  - - root 0 a
+! d - root 32 e
+! d - root 32 ee
+! d - root 32 g
+  - - root 0 z
+  Menu de Shell
+  1 - Listar

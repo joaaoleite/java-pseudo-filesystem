@@ -1,0 +1,42 @@
+*** tests/A-016-007-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-016-007-M-ok.outhyp	Tue Dec  2 18:36:41 2014
+***************
+*** 66,73 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: Remover entrada: Operação inválida: O utilizador 'yoda' não tem permissão para realizar a operação.
+! Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+--- 66,72 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+***************
+*** 80,89 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 32 .
+! d - vader 32 ..
+! d - yoda 16 pr
+! d w yoda 16 pu
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 79,87 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 40 private
+! d - vader 48 vader
+! d w yoda 32 pu
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada

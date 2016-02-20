@@ -1,0 +1,21 @@
+*** tests/A-004-005-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-004-005-M-ok.outhyp	Tue Dec  2 18:36:33 2014
+***************
+*** 62,69 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 40 .
+! d - root 24 ..
+  - - root 0 a
+  - - root 0 b
+  - - root 0 c
+--- 62,69 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 56 root
+! d - root 40 home
+  - - root 0 a
+  - - root 0 b
+  - - root 0 c

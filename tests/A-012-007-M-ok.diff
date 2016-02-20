@@ -1,0 +1,63 @@
+*** tests/A-012-007-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-012-007-M-ok.outhyp	Tue Dec  2 18:36:38 2014
+***************
+*** 53,59 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome do ficheiro: Insira a linha de texto a acrescentar ao ficheiro: Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+--- 53,59 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: Insira a linha de texto a acrescentar ao ficheiro: Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+***************
+*** 66,77 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 48 .
+! d - root 40 ..
+  - - vader 29 filePriv
+  - w vader 22 filePub
+! d - vader 16 private
+! d w vader 16 public
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 66,77 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 64 vader
+! d - root 56 home
+  - - vader 29 filePriv
+  - w vader 22 filePub
+! d - vader 32 private
+! d w vader 32 public
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+***************
+*** 85,91 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome do ficheiro: This is a private file
+  12345
+  
+  Menu de Shell
+--- 85,91 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: This is a private file
+  12345
+  
+  Menu de Shell

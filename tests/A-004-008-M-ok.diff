@@ -1,0 +1,87 @@
+*** tests/A-004-008-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-004-008-M-ok.outhyp	Tue Dec  2 18:36:33 2014
+***************
+*** 6,81 ****
+  5 - Menu Shell
+  6 - Menu Utilizador
+  0 - Sair
+! Escolha uma opção: Identificador do utilizador: Menu Principal
+! 1 - Novo
+! 2 - Abrir
+! 3 - Guardar
+! 4 - Login
+! 5 - Menu Shell
+! 6 - Menu Utilizador
+! 0 - Sair
+! Escolha uma opção: Menu de Shell
+! 1 - Listar
+! 2 - Listar entrada
+! 3 - Remover entrada
+! 4 - Mudar o directório de trabalho
+! 5 - Criar ficheiro
+! 6 - Criar directório
+! 7 - Mostrar o directório de trabalho
+! 8 - Adicionar linha a ficheiro
+! 9 - Ver conteúdo de ficheiro
+! 10 - Mudar permissões de entrada
+! 11 - Mudar dono de entrada
+! 0 - Sair
+! Escolha uma opção: Indique o nome do directório: Menu de Shell
+! 1 - Listar
+! 2 - Listar entrada
+! 3 - Remover entrada
+! 4 - Mudar o directório de trabalho
+! 5 - Criar ficheiro
+! 6 - Criar directório
+! 7 - Mostrar o directório de trabalho
+! 8 - Adicionar linha a ficheiro
+! 9 - Ver conteúdo de ficheiro
+! 10 - Mudar permissões de entrada
+! 11 - Mudar dono de entrada
+! 0 - Sair
+! Escolha uma opção: Indique o nome do directório: Menu de Shell
+! 1 - Listar
+! 2 - Listar entrada
+! 3 - Remover entrada
+! 4 - Mudar o directório de trabalho
+! 5 - Criar ficheiro
+! 6 - Criar directório
+! 7 - Mostrar o directório de trabalho
+! 8 - Adicionar linha a ficheiro
+! 9 - Ver conteúdo de ficheiro
+! 10 - Mudar permissões de entrada
+! 11 - Mudar dono de entrada
+! 0 - Sair
+! Escolha uma opção: d - vader 32 .
+! d - root 40 ..
+! - w vader 44 calendar
+! - w vader 16 r2d2
+! Menu de Shell
+! 1 - Listar
+! 2 - Listar entrada
+! 3 - Remover entrada
+! 4 - Mudar o directório de trabalho
+! 5 - Criar ficheiro
+! 6 - Criar directório
+! 7 - Mostrar o directório de trabalho
+! 8 - Adicionar linha a ficheiro
+! 9 - Ver conteúdo de ficheiro
+! 10 - Mudar permissões de entrada
+! 11 - Mudar dono de entrada
+! 0 - Sair
+! Escolha uma opção: Menu Principal
+! 1 - Novo
+! 2 - Abrir
+! 3 - Guardar
+! 4 - Login
+! 5 - Menu Shell
+! 6 - Menu Utilizador
+! 0 - Sair
+! Escolha uma opção: 
+\ No newline at end of file
+--- 6,9 ----
+  5 - Menu Shell
+  6 - Menu Utilizador
+  0 - Sair
+! Escolha uma opção: Identificador do utilizador: 
+\ No newline at end of file

@@ -1,0 +1,65 @@
+*** tests/A-010-001-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-010-001-M-ok.outhyp	Tue Dec  2 18:36:35 2014
+***************
+*** 53,60 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d w vader 24 .
+! d - vader 40 ..
+  - - vader 0 exemplo
+  Menu de Shell
+  1 - Listar
+--- 53,60 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d w vader 40 public
+! d - vader 56 vader
+  - - vader 0 exemplo
+  Menu de Shell
+  1 - Listar
+***************
+*** 90,97 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d w vader 24 .
+! d - vader 40 ..
+  - - vader 0 exemplo
+  Menu de Shell
+  1 - Listar
+--- 90,97 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d w vader 40 public
+! d - vader 56 vader
+  - - vader 0 exemplo
+  Menu de Shell
+  1 - Listar
+***************
+*** 135,145 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 40 .
+! d - root 40 ..
+  - w vader 15 file
+! d - vader 16 private
+! d w vader 24 public
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 135,145 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 56 vader
+! d - root 56 home
+  - w vader 15 file
+! d - vader 32 private
+! d w vader 40 public
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada

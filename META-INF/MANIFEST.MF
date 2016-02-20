@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: G42
+Implementation-Title: pt.utl.ist.po
+Implementation-Version: 13 de Novembro 2014
+Specified-By: G42
+Class-Path: pt.jar
+Specification-Vendor: G42
+Specification-Title: Shell
+Created-By: G42
+Specification-Version: 201011132000
+Main-Class: poof.textui.Shell

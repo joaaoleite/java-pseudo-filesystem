@@ -1,0 +1,19 @@
+*** tests/A-011-003-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-011-003-M-ok.outhyp	Tue Dec  2 18:36:37 2014
+***************
+*** 40,46 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome do ficheiro: Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+--- 40,46 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada

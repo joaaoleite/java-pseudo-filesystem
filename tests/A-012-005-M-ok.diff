@@ -1,0 +1,65 @@
+*** tests/A-012-005-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-012-005-M-ok.outhyp	Tue Dec  2 18:36:38 2014
+***************
+*** 61,67 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome do ficheiro: Insira a linha de texto a acrescentar ao ficheiro: Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+--- 61,68 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: Insira a linha de texto a acrescentar ao ficheiro: Adicionar linha a ficheiro: Operação inválida: O utilizador 'yoda' não tem permissão para realizar a operação.
+! Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+  3 - Remover entrada
+***************
+*** 74,85 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 48 .
+! d - root 40 ..
+  - - vader 23 filePriv
+! - w vader 32 filePub
+! d - vader 16 private
+! d w vader 16 public
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 75,86 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - vader 64 vader
+! d - root 56 home
+  - - vader 23 filePriv
+! - w vader 22 filePub
+! d - vader 32 private
+! d w vader 32 public
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+***************
+*** 93,100 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome do ficheiro: This is a public file
+! 123456789
+  
+  Menu de Shell
+  1 - Listar
+--- 94,100 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: Indique o nome da entrada: This is a public file
+  
+  Menu de Shell
+  1 - Listar

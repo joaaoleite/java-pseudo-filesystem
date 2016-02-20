@@ -1,0 +1,66 @@
+*** tests/A-013-002-M-ok.out	Wed Nov 26 23:23:51 2014
+--- tests/A-013-002-M-ok.outhyp	Tue Dec  2 18:36:38 2014
+***************
+*** 22,34 ****
+  1 - Criar utilizador
+  2 - Listar utilizadores
+  0 - Sair
+! Escolha uma opção: Identificador do utilizador: Nome do utilizador: Menu Utilizador
+  1 - Criar utilizador
+  2 - Listar utilizadores
+  0 - Sair
+! Escolha uma opção: root:Super User:/home/root
+! yoda:Jedi:/home/yoda
+! Menu Utilizador
+  1 - Criar utilizador
+  2 - Listar utilizadores
+  0 - Sair
+--- 22,32 ----
+  1 - Criar utilizador
+  2 - Listar utilizadores
+  0 - Sair
+! Escolha uma opção: Nome do utilizador: Identificador do utilizador: Menu Utilizador
+  1 - Criar utilizador
+  2 - Listar utilizadores
+  0 - Sair
+! Escolha uma opção: Menu Utilizador
+  1 - Criar utilizador
+  2 - Listar utilizadores
+  0 - Sair
+***************
+*** 40,46 ****
+  5 - Menu Shell
+  6 - Menu Utilizador
+  0 - Sair
+! Escolha uma opção: Identificador do utilizador: Menu Principal
+  1 - Novo
+  2 - Abrir
+  3 - Guardar
+--- 38,45 ----
+  5 - Menu Shell
+  6 - Menu Utilizador
+  0 - Sair
+! Escolha uma opção: Identificador do utilizador: Login: Operação inválida: O utilizador 'yoda' não existe.
+! Menu Principal
+  1 - Novo
+  2 - Abrir
+  3 - Guardar
+***************
+*** 61,68 ****
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - yoda 16 .
+! d - root 32 ..
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
+--- 60,67 ----
+  10 - Mudar permissões de entrada
+  11 - Mudar dono de entrada
+  0 - Sair
+! Escolha uma opção: d - root 32 root
+! d - root 40 home
+  Menu de Shell
+  1 - Listar
+  2 - Listar entrada
